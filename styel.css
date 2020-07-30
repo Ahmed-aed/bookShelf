@@ -1,0 +1,16 @@
+.book{
+    width: 33% !important;
+
+    text-align: center;
+
+
+}
+.bookShelf{
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+.h3{
+    text-align:center;
+}
+
+
